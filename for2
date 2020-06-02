@@ -1,0 +1,11 @@
+#!/bin/bash
+ 
+str="this example demonstrates 
+the for loop that considers new line characters as line separators"
+ 
+ 
+## loop through each line in above string
+for i in $str
+do
+   echo "$i" 
+done
