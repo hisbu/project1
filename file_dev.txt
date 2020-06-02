@@ -1,1 +1,3 @@
 isi file dev.txt
+isi file kedua
+isi file ketiga
