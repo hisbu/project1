@@ -1,6 +1,8 @@
 isi file dev.txt
 tambah baris kedua
 tambah baris ketiga
+coba
+test
 tambah baris keempat dev
 tambah baris kelima dev
 edit isi file kedua
