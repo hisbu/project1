@@ -2,14 +2,6 @@ isi file dev.txt
 tambah baris kedua
 tambah baris ketiga
 ini bagian master edit
-ini juga
-baris dari master
-baris dari master
-
-=======================================
-ini baris dari dev
-baris dari dev juga
-tambah baris keempat dev
 tambah baris kelima dev
 tambah baris keempat dev
 edit isi file keduab
