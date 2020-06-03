@@ -1,6 +1,8 @@
 isi file dev.txt
 tambah baris kedua
 tambah baris ketiga
+ini bagian master edit
+ini juga
 =======================================
 tambah baris keempat dev
 tambah baris kelima dev
