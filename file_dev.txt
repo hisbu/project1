@@ -3,10 +3,10 @@ tambah baris kedua
 tambah baris ketiga
 coba
 test
-master
-master
+mari
+mari
 tambah baris keempat dev
 tambah baris kelima dev
 tambah baris keempat dev
-edit isi file kedua
+edit isi file keduab
 edit isi file ketiga
